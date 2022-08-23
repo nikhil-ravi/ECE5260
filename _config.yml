@@ -17,7 +17,7 @@ title: ECE 5260
 tagline: Graph-Based Data Science for Networked Systems
 description: Cornell Tech, Spring 2022
 author: Nikhil Ravi
-baseurl: '/ECE5260' # the subpath of your site, e.g. /blog
+baseurl: '/teaching/Spring22/ECE5260' # the subpath of your site, e.g. /blog
 url: 'https://sinelab.tech.cornell.edu' # the base hostname & protocol for your site, e.g. http://example.com
 # baseurl: '/ECE5260' # the subpath of your site, e.g. /blog
 # url: 'https://nikhil-ravi.github.io' # the base hostname & protocol for your site, e.g. http://example.com
